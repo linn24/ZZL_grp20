@@ -11,7 +11,7 @@ import javax.swing.JInternalFrame;
 //import MapClient.PaintThread;
 
 //import MapClient.KeyMonitor;
-
+//x
 
 public class Client extends Frame{
 
